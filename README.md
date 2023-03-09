@@ -7,6 +7,7 @@ NotesAppNew
 - MVVM
 - LiveData
 - Coroutines
+- Suspent Function
 - Room Database
 - Navigation
 - Fragment
